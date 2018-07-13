@@ -1,0 +1,47 @@
+
+---------------------------------------
+------------ TEST COLORS --------------
+---------------------------------------
+
+text                   #3F5062
+text-secondary         #6EA4DE
+link hover             #3F5062
+border and text        #C4D6DC
+not very dark text     #78808D
+
+light border           #DCEEF4
+light blue border      #BBCEE2
+header border          #9ABDE2
+
+bg light               #ECEFF4
+bg dark                #343F51
+bg dark contacts       #485365
+
+---------------------------------------
+
+dark blue               #354167
+dark gray               #7C8186
+light gray              #ECEFF4           
+blue-gray               #3F5062
+blue                    #1693D3
+blue2                   #6791E6
+bg dark grey            #343F51
+bg dark grey2           #485365
+nice blue               #6EA4DE
+nice blue light         #BBCEE2
+light border            #DCEEF4
+light blue2             #9ABDE2
+
+
+---------------------------------------
+START COLORS
+
+text                    #52575C
+text-secondary          #81969D
+hover                   #3C5363
+border                  #C4D6DC
+pagination              #EEFCFF
+
+
+
+

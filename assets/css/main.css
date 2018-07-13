@@ -1,0 +1,116 @@
+/* Main CSS Styles */
+
+* {
+    font-weight: normal!important;
+}
+
+.custom-select,
+.popover,
+body {
+    font-family: 'FuturaPT-Medium', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 18px;
+}
+
+.navbar-light .navbar-brand,
+body nav a,
+body nav a:hover,
+body a,
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6,
+body .h1,
+body .h2,
+body .h3,
+body .h4,
+body .h5,
+body .h6 {
+    font-family: 'FuturaPT-Medium', sans-serif ;
+/*    font-family: 'FuturaPT-Bold', sans-serif ;*/
+    font-weight: normal ;
+    font-style: normal ;
+}
+
+/*
+header .navbar-nav a:hover,
+header .navbar-nav a {
+    font-family: 'FuturaPT-Bold', sans-serif ;
+}
+*/
+
+.button,
+.btn,
+button,
+a {
+    cursor: pointer;
+}
+
+.dropdown-menu {
+    margin: 0rem 0 0;
+}
+.dropdown-toggle::after {
+    display: none;
+}
+
+/* fixed header menu */
+.admin-bar .site-header.fixed-top {
+    padding-top: 40px;
+    margin-top: -8px;
+    transition: padding-top 0.4s;
+    -webkit-transition: padding-top 0.4s;
+}
+.site-header.fixed-top {
+    padding-top: 0.8rem;
+    margin-top: -0.8rem;
+    transition: padding-top 0.4s;
+    -webkit-transition: padding-top 0.4s;
+}
+.site-header.fixed-top nav {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+    
+@media only screen and (min-width: 768px) {
+    .mt90px {
+        margin-top: 90px !important ;
+    }
+}
+
+/* single-post comments */
+ol.comment-list li.comment {
+    list-style-type: none;
+}
+ol.comment-list {
+    padding-left: 0.25rem !important;
+}
+
+/*-- Scroll to top button --*/
+.totopbtn {
+    position: fixed;
+    bottom: 5rem;
+    right: 1rem;
+    font-size: 2.5rem;
+}
+
+/* ---- Pagination --- */
+.page-links.d-table span, .page-links.d-table a{
+    padding: 0.4rem 0.8rem;
+    margin-right: 0.2rem;
+    margin-left: 0.2rem;
+    border-radius: 50%;
+}
+
+/*----- Breadcrumbs -----*/
+
+nav.wrap-breadcrumbs {
+    margin-right: -15px !important;;
+    margin-left: -15px !important;;
+}
+
+
+
+
